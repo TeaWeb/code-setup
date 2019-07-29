@@ -1,1 +1,1 @@
-# code-setup
+Helper for pulling TeaWeb source code.
